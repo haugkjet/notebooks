@@ -1,2 +1,2 @@
 # notebooks
-Jypyter notebooks
+Jupyter notebooks
